@@ -128,7 +128,7 @@ Multi Line Comments
 
 ### Relational Operators
 
-    ![Relational Operators](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e412444-ebcc-4f66-bfa3-027984af1792/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220423%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220423T142328Z&X-Amz-Expires=86400&X-Amz-Signature=7dcd496b2e322bf47c91a05f2a6e988518b38320b32de1a6183b7d100845b81b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Relational Operators](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e412444-ebcc-4f66-bfa3-027984af1792/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220423%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220423T142328Z&X-Amz-Expires=86400&X-Amz-Signature=7dcd496b2e322bf47c91a05f2a6e988518b38320b32de1a6183b7d100845b81b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### If In Python , Java && Ruby
 
